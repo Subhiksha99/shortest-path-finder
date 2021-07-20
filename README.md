@@ -17,3 +17,6 @@ I have attached the screenshot of the program.
 ![image](https://user-images.githubusercontent.com/65604292/126343272-a1c19f46-ca80-460c-b6e2-d2762ce31d65.png)
 ![image](https://user-images.githubusercontent.com/65604292/126343330-56d63b74-6c12-4d83-85f1-bce08c73edc2.png)
 
+
+I have attached the graph also which i drawn for this project
+![image](https://user-images.githubusercontent.com/65604292/126343807-32f93bc8-f04f-43e4-85a9-34af200cca3f.png)
